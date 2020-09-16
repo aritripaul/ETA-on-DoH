@@ -48,7 +48,7 @@ takes each url from the text file containing all links extracted from the websit
 script to capture packets from that link. To create a diverse dataset we have loaded the
 web page of each url 10 times, that is each of those thousand urls where loaded ten times and
 a total of ten thousand pcap files were created and the decryption key was also stored in a
-file which we would require while extracting the DNS sequences. The links to the dataset created after execution can be found in the README file of the signature extraction process.
+file which we would require while extracting the DNS sequences. The links to the dataset created after execution can be found in the README file of the profiling folder.
 
 ALGORITHM FOR PROFILING
 
