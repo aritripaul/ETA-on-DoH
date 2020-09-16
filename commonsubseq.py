@@ -1,8 +1,9 @@
+#Author: Aritri Paul
 import sys
 import os
 import itertools
 
-foldername = sys.argv[1]  
+foldername = sys.argv[1]   #Takes folder name(here, 'Output') as command line input
 file_obj=open("Commonsubsq.txt","a")
 
 count=0                                 #counts number of files in the folder given by the user   
