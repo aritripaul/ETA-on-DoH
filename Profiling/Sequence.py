@@ -1,4 +1,5 @@
 #Author: Aritri Paul
+#To execute the code, type the following command in your terminal: python3 Sequence.py
 
 import sys
 import pyshark
