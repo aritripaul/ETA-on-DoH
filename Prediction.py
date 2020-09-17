@@ -1,3 +1,6 @@
+#Author : Aritri Paul
+#To execute the code, type the following command in your terminal: python3 Prediction.py <pcap file name>
+
 import sys
 import pyshark
 import os
@@ -34,7 +37,7 @@ def isSubArray(test_dns, each_dns, n, m):
 
 
 file=sys.argv[1]
-file=file+".raw"
+file=file+".raw"   #Takes the pcap file as command line input
 
 
 path_to_pcap=os.path.join(os.curdir, file)
