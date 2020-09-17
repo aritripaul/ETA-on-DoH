@@ -1,4 +1,6 @@
 #Author: Aritri Paul
+#To execute the code, type the following command in your terminal: python3 commonsubseq.py <output_folder_name>
+
 import sys
 import os
 import itertools
